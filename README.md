@@ -8,4 +8,4 @@
 ### DoublePendulum.py
 用Python求解双摆系统的欧拉-拉格朗日方程，展示该系统的混沌现象。
 ### Julia.py
-复变函数$$f(z)$$
+复变函数f(z)=z²+C在复平面构成的Julia集合
