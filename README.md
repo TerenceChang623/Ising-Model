@@ -1,2 +1,1 @@
-# Ising Model
-二维Ising模型
+# 此Repository用于存放个人编写的部分代码，供科大各面试官位老师查看
